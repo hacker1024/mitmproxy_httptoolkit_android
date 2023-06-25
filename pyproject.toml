@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "mitmproxy_httptoolkit_android"
+version = "0.1.0"
+description = "A mitmproxy addon that allows the HTTP Toolkit Android app to work with mitmproxy."
+license = "MIT"
+authors = ["hacker1024 <hacker1024@users.sourceforge.net>"]
+readme = "README.md"
+homepage = "https://github.com/hacker1024/mitmproxy_httptoolkit_android"
+repository = "https://github.com/hacker1024/mitmproxy_httptoolkit_android"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+mitmproxy = "^8.0.0"
+cryptography = ">=38.0"
+psutil = "^5.9.0"
