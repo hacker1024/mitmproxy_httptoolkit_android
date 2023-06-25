@@ -4,7 +4,7 @@ A [mitmproxy] addon that allows use of the [HTTP Toolkit] Android app.
 
 ## Rationale
 
-[HTTP Toolkit] is not as featureful as [mitmproxy], but has a very polished
+[HTTP Toolkit] is not as featureful as [mitmproxy], but it has a very polished
 Android connection experience. This addon allows all of HTTP Toolkit's Android
 features (namely, guided certificate installation and per-app tunneling) to be
 used with mitmproxy.
